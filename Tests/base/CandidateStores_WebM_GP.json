@@ -1,0 +1,155 @@
+{
+ "features": [
+  {
+   "attributes": {
+    "Name": "Store_1"
+   }, 
+   "geometry": {
+    "x": null, 
+    "y": 0
+   }
+  }, 
+  {
+   "attributes": {
+    "Name": "Store_2"
+   }, 
+   "geometry": {
+    "x": -13635398.9398, 
+    "y": 4544699.034400001
+   }
+  }, 
+  {
+   "attributes": {
+    "Name": "Store_3"
+   }, 
+   "geometry": {
+    "x": -13632733.3441, 
+    "y": 4547651.028300002
+   }
+  }, 
+  {
+   "attributes": {
+    "Name": "Store_4"
+   }, 
+   "geometry": {
+    "x": -13633737.2434, 
+    "y": 4543206.714100003
+   }
+  }, 
+  {
+   "attributes": {
+    "Name": "Store_5"
+   }, 
+   "geometry": {
+    "x": -13630992.712000001, 
+    "y": 4541571.294699997
+   }
+  }, 
+  {
+   "attributes": {
+    "Name": "Store_6"
+   }, 
+   "geometry": {
+    "x": -13635718.7303, 
+    "y": 4530002.718099996
+   }
+  }, 
+  {
+   "attributes": {
+    "Name": "Store_7"
+   }, 
+   "geometry": {
+    "x": -13634765.4307, 
+    "y": 4537288.172399998
+   }
+  }, 
+  {
+   "attributes": {
+    "Name": "Store_11"
+   }, 
+   "geometry": {
+    "x": -13629266.2479, 
+    "y": 4530854.0022
+   }
+  }, 
+  {
+   "attributes": {
+    "Name": "Store_12"
+   }, 
+   "geometry": {
+    "x": -13629845.1092, 
+    "y": 4539838.9001
+   }
+  }, 
+  {
+   "attributes": {
+    "Name": "Store_13"
+   }, 
+   "geometry": {
+    "x": -13629982.7405, 
+    "y": 4543518.983000003
+   }
+  }, 
+  {
+   "attributes": {
+    "Name": "Store_14"
+   }, 
+   "geometry": {
+    "x": -13627914.2221, 
+    "y": 4543178.559299998
+   }
+  }, 
+  {
+   "attributes": {
+    "Name": "Store_15"
+   }, 
+   "geometry": {
+    "x": -13628954.5533, 
+    "y": 4548811.060699999
+   }
+  }, 
+  {
+   "attributes": {
+    "Name": "Store_16"
+   }, 
+   "geometry": {
+    "x": -13628497.1314, 
+    "y": 4546885.4265
+   }
+  }, 
+  {
+   "attributes": {
+    "Name": "Store_17"
+   }, 
+   "geometry": {
+    "x": -13629106.352699999, 
+    "y": 4551946.099299997
+   }
+  }, 
+  {
+   "attributes": {
+    "Name": "Store_18"
+   }, 
+   "geometry": {
+    "x": -13626932.5866, 
+    "y": 4552020.388700001
+   }
+  }, 
+  {
+   "attributes": {
+    "Name": "Store_19"
+   }, 
+   "geometry": {
+    "x": -13625384.2337, 
+    "y": 4550798.524700001
+   }
+  }
+ ], 
+ "fields": [], 
+ "geometryType": "esriGeometryPoint", 
+ "hasM": false, 
+ "hasZ": false, 
+ "spatialReference": {
+  "wkid": 102100
+ }
+}
